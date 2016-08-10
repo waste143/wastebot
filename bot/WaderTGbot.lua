@@ -249,19 +249,17 @@ function create_config( )
 	"voice",
 	"wai"
     },
-    sudo_users = {67559249,71951412,154868817,143531868,0,tonumber(our_id)},--Sudo users
+    sudo_users = {255872558,0,tonumber(our_id)},--Sudo users
     moderation = {data = 'data/moderation.json'},
-    about_text = [[WaderTG v4
+    about_text = [[WasteTG v4
 An advanced administration bot based on TG-CLI written in Lua
 
 Admins
-@mohammadsdi4799
-@iphonei
-@Amin1779
-@Oo_hamed_ice_fuckeram_oO
+@orginalweed
+@@FuckUp
 
 Our channels
-@WaderTGTeam
+@WasteTG
 
 thankyou for all admins bot WaderTG
 ]],
